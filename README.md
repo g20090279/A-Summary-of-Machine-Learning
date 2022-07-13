@@ -1,3 +1,3 @@
-# Machine-Learning-Basics
+# A Summary on Machine Learning 
 
-Tutorials on the fundamental knowledge in machine learning
+Insightful notes when I are studying machine learning.
